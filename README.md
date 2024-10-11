@@ -1,6 +1,5 @@
 # DragonSlayer
 
-# Dragon Slayer Game Simulation
 
 ## Overview
 
